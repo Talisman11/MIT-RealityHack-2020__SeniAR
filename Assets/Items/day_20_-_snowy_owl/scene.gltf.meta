@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 85b75174b0a724530bfe00d7150e36a4
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: main/glTF Scene scene
+    100002: main/glTF Scene scene/RootNode (gltf orientation matrix)
+    100004: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)
+    100006: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root
+    100008: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature
+    100010: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint
+    100012: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature
+    100014: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature
+    100016: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.002_Armature
+    100018: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.L_Armature
+    100020: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.L_Armature/Bone.008.L_Armature
+    100022: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.L_Armature/Bone.008.L_Armature/Bone.009.L_Armature
+    100024: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.R_Armature
+    100026: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.R_Armature/Bone.008.R_Armature
+    100028: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.R_Armature/Bone.008.R_Armature/Bone.009.R_Armature
+    100030: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.003_Armature
+    100032: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature
+    100034: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature
+    100036: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature
+    100038: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.010.L_Armature
+    100040: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.010.L_Armature/Bone.010.L.001_Armature
+    100042: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.011.L_Armature
+    100044: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.011.L_Armature/Bone.011.L.001_Armature
+    100046: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.012.L_Armature
+    100048: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.012.L_Armature/Bone.012.L.001_Armature
+    100050: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.013.L_Armature
+    100052: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.013.L_Armature/Bone.013.L.001_Armature
+    100054: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature
+    100056: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature
+    100058: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature
+    100060: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.010.R_Armature
+    100062: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.010.R_Armature/Bone.010.R.001_Armature
+    100064: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.011.R_Armature
+    100066: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.011.R_Armature/Bone.011.R.001_Armature
+    100068: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.012.R_Armature
+    100070: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.012.R_Armature/Bone.012.R.001_Armature
+    100072: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.013.R_Armature
+    100074: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.013.R_Armature/Bone.013.R.001_Armature
+    100076: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Cube
+    100078: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Cube_0
+    100080: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Plane
+    100082: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Plane_0
+    100084: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Sun
+    100086: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Sun/Sun
+    400000: main/glTF Scene scene/Transform
+    400002: main/glTF Scene scene/RootNode (gltf orientation matrix)/Transform
+    400004: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Transform
+    400006: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Transform
+    400008: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Transform
+    400010: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Transform
+    400012: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Transform
+    400014: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Transform
+    400016: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.002_Armature/Transform
+    400018: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.L_Armature/Transform
+    400020: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.L_Armature/Bone.008.L_Armature/Transform
+    400022: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.L_Armature/Bone.008.L_Armature/Bone.009.L_Armature/Transform
+    400024: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.R_Armature/Transform
+    400026: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.R_Armature/Bone.008.R_Armature/Transform
+    400028: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.001_Armature/Bone.007.R_Armature/Bone.008.R_Armature/Bone.009.R_Armature/Transform
+    400030: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.003_Armature/Transform
+    400032: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Transform
+    400034: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Transform
+    400036: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Transform
+    400038: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.010.L_Armature/Transform
+    400040: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.010.L_Armature/Bone.010.L.001_Armature/Transform
+    400042: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.011.L_Armature/Transform
+    400044: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.011.L_Armature/Bone.011.L.001_Armature/Transform
+    400046: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.012.L_Armature/Transform
+    400048: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.012.L_Armature/Bone.012.L.001_Armature/Transform
+    400050: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.013.L_Armature/Transform
+    400052: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.L_Armature/Bone.005.L_Armature/Bone.006.L_Armature/Bone.013.L_Armature/Bone.013.L.001_Armature/Transform
+    400054: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Transform
+    400056: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Transform
+    400058: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Transform
+    400060: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.010.R_Armature/Transform
+    400062: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.010.R_Armature/Bone.010.R.001_Armature/Transform
+    400064: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.011.R_Armature/Transform
+    400066: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.011.R_Armature/Bone.011.R.001_Armature/Transform
+    400068: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.012.R_Armature/Transform
+    400070: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.012.R_Armature/Bone.012.R.001_Armature/Transform
+    400072: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.013.R_Armature/Transform
+    400074: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Armature_rootJoint/Bone_Armature/Bone.004.R_Armature/Bone.005.R_Armature/Bone.006.R_Armature/Bone.013.R_Armature/Bone.013.R.001_Armature/Transform
+    400076: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Cube/Transform
+    400078: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Cube_0/Transform
+    400080: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Plane/Transform
+    400082: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Plane_0/Transform
+    400084: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Sun/Transform
+    400086: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Sun/Sun/Transform
+    2300000: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Cube_0/MeshRenderer
+    2300002: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Plane_0/MeshRenderer
+    3300000: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Cube_0/MeshFilter
+    3300002: main/glTF Scene scene/RootNode (gltf orientation matrix)/RootNode (model
+      correction matrix)/Root/Armature/Plane_0/MeshFilter
+    4300000: Cube
+    4300002: Plane
+    11400000: glTF data
+    100100000: main
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 8f83316e73954ae4fa56b79705605b45, type: 3}

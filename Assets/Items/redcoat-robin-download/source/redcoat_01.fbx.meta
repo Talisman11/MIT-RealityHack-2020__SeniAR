@@ -1,0 +1,171 @@
+fileFormatVersion: 2
+guid: 42774ec52308f44f29d371e33f03f4a0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Armature
+    100002: BirdFull
+    100004: body
+    100006: butt
+    100008: Eyes
+    100010: feather.L
+    100012: feather.L_end
+    100014: feather.R
+    100016: feather.R_end
+    100018: head
+    100020: head_end
+    100022: Leg.L
+    100024: Leg.R
+    100026: Leg2.L
+    100028: Leg2.L_end
+    100030: Leg2.R
+    100032: Leg2.R_end
+    100034: Leg3.L
+    100036: Leg3.L_end
+    100038: Leg3.R
+    100040: Leg3.R_end
+    100042: neck
+    100044: //RootNode
+    100046: Root
+    100048: tail
+    100050: tail_end
+    100052: wing1.L
+    100054: wing1.R
+    100056: wing2.L
+    100058: wing2.R
+    100060: Wing3.L
+    100062: Wing3.L_end
+    100064: Wing3.R
+    100066: Wing3.R_end
+    400000: Armature
+    400002: BirdFull
+    400004: body
+    400006: butt
+    400008: Eyes
+    400010: feather.L
+    400012: feather.L_end
+    400014: feather.R
+    400016: feather.R_end
+    400018: head
+    400020: head_end
+    400022: Leg.L
+    400024: Leg.R
+    400026: Leg2.L
+    400028: Leg2.L_end
+    400030: Leg2.R
+    400032: Leg2.R_end
+    400034: Leg3.L
+    400036: Leg3.L_end
+    400038: Leg3.R
+    400040: Leg3.R_end
+    400042: neck
+    400044: //RootNode
+    400046: Root
+    400048: tail
+    400050: tail_end
+    400052: wing1.L
+    400054: wing1.R
+    400056: wing2.L
+    400058: wing2.R
+    400060: Wing3.L
+    400062: Wing3.L_end
+    400064: Wing3.R
+    400066: Wing3.R_end
+    2100000: Eyes
+    2100002: bird
+    4300000: Eyes
+    4300002: BirdFull
+    7400000: Armature|Eat
+    7400002: Armature|Fly1
+    7400004: Armature|Hop
+    7400006: Armature|LookAround
+    7400008: Armature|PoseLib
+    9500000: //RootNode
+    13700000: BirdFull
+    13700002: Eyes
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

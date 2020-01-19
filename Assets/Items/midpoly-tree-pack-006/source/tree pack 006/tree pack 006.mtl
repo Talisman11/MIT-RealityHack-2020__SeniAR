@@ -1,0 +1,52 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl AM113_060_Staphyella_pinnata_Bark
+Ka 0.000000 0.000000 0.000000
+Kd 0.439216 0.419608 0.325490
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/AM113_060_Staphyella_pinnata_Bark.jpg
+
+newmtl AM113_059_Staphyella_pinnata
+Ka 0.000000 0.000000 0.000000
+Kd 0.247059 0.325490 0.164706
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/AM113_059_Staphyella_pinnata.png
+
+newmtl AM113_062_Tilia_Bark
+Ka 0.000000 0.000000 0.000000
+Kd 0.345098 0.333333 0.282353
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/AM113_062_Tilia_Bark.jpg
+
+newmtl AM113_062_Tilia
+Ka 0.000000 0.000000 0.000000
+Kd 0.227451 0.317647 0.145098
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/AM113_062_Tilia.png
+
+newmtl M_006_Quercur_Robur_Bark
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.305882 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/M_006_Quercur_Robur_Bark.jpg
+
+newmtl M_006_Quercur_Robur
+Ka 0.000000 0.000000 0.000000
+Kd 0.321569 0.415686 0.321569
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/M_006_Quercur_Robur.png
+
+newmtl AM113_007_Ulmus_Bark
+Ka 0.000000 0.000000 0.000000
+Kd 0.329412 0.305882 0.227451
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/AM113_007_Ulmus_Bark.jpg
+
+newmtl AM113_007_Ulmus
+Ka 0.000000 0.000000 0.000000
+Kd 0.262745 0.364706 0.270588
+Ks 0.330000 0.330000 0.330000
+map_Kd tree pack 006/AM113_007_Ulmus.png
+
