@@ -53,10 +53,6 @@
       <DeploymentContent>true</DeploymentContent>
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
-    <None Include="$(MSBuildThisFileDirectory)Data\nativePlugins.txt">
-      <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
-    </None>
     <None Include="$(MSBuildThisFileDirectory)Data\resources.assets">
       <DeploymentContent>true</DeploymentContent>
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
@@ -70,6 +66,10 @@
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
     <None Include="$(MSBuildThisFileDirectory)Data\sharedassets0.assets.resS">
+      <DeploymentContent>true</DeploymentContent>
+      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
+    </None>
+    <None Include="$(MSBuildThisFileDirectory)Data\sharedassets0.resource">
       <DeploymentContent>true</DeploymentContent>
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
@@ -169,10 +169,6 @@
       <DeploymentContent>true</DeploymentContent>
       <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
     </None>
-    <None Include="$(MSBuildThisFileDirectory)AudioPluginMsHRTF.dll">
-      <DeploymentContent>true</DeploymentContent>
-      <ExcludeFromResourceIndex>true</ExcludeFromResourceIndex>
-    </None>
   </ItemGroup>
   <ItemGroup>
     <Reference Include="$(UnityWSAPlayerDir)Players\UAP\il2cpp\$(PlatformTarget)\$(UnityPlayerConfiguration)\UnityPlayer.winmd">
@@ -194,9 +190,5 @@
     <ProjectCapability Include="SourceItemsFromImports" />
   </ItemGroup>
   <Target Name="BeforeResolveReferences" Condition="'$(BuildingProject)' == 'true'">
-        <Copy SourceFiles="$(ProjectDir)Plugins\$(PlatformShortName)\AudioPluginMsHRTF.dll" DestinationFiles="$(ProjectDir)AudioPluginMsHRTF.dll" />
-            <Delete Files="$(ProjectDir)AudioPluginMsHRTF.pdb" Condition="Exists('$(ProjectDir)AudioPluginMsHRTF.pdb')" />
-            <Delete Files="$(ProjectDir)AudioPluginMsHRTF.dll.mdb" Condition="Exists('$(ProjectDir)AudioPluginMsHRTF.dll.mdb')" />
-            <Copy SourceFiles="$(ProjectDir)Plugins\$(PlatformShortName)\AudioPluginMsHRTF.pdb" DestinationFiles="$(ProjectDir)AudioPluginMsHRTF.pdb" Condition="Exists('$(ProjectDir)Plugins\$(PlatformShortName)\AudioPluginMsHRTF.pdb')" />
   </Target>
 </Project>

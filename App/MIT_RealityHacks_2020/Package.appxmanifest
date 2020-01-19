@@ -8,7 +8,7 @@
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
-    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.10240.0" MaxVersionTested="10.0.18362.0" />
+    <TargetDeviceFamily Name="Windows.Holographic" MinVersion="10.0.10240.0" MaxVersionTested="10.0.18362.0" />
   </Dependencies>
   <Resources>
     <Resource Language="x-generate" />
@@ -29,6 +29,8 @@
   </Applications>
   <Capabilities>
     <Capability Name="internetClient" />
+    <Capability Name="internetClientServer" />
+    <Capability Name="privateNetworkClientServer" />
     <uap2:Capability Name="spatialPerception" />
     <DeviceCapability Name="microphone" />
   </Capabilities>

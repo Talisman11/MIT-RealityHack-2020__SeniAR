@@ -184,6 +184,8 @@ struct Type_t;
 struct Void_t22962CB4C05B1D89B55A6E1139F0E87A90987017;
 // UnityEngine.AudioClip
 struct AudioClip_tCC3C35F579203CE2601243585AB3D6953C3BA051;
+// UnityEngine.AudioSource
+struct AudioSource_t5196F862B4E60F404613361C90D87FBDD041E93C;
 // UnityEngine.Cubemap
 struct Cubemap_tBFAC336F35E8D7499397F07A41505BD98F4491AF;
 // UnityEngine.EventSystems.ExecuteEvents/EventFunction`1<Microsoft.MixedReality.Toolkit.Boundary.IMixedRealityBoundaryHandler>
@@ -252,6 +254,26 @@ struct Delegate_t_marshaled_pinvoke;
 
 
 
+#ifndef U3CMODULEU3E_TD981211B90333BF94F78FE63963F0E239B201CF1_H
+#define U3CMODULEU3E_TD981211B90333BF94F78FE63963F0E239B201CF1_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// <Module>
+struct  U3CModuleU3E_tD981211B90333BF94F78FE63963F0E239B201CF1 
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // U3CMODULEU3E_TD981211B90333BF94F78FE63963F0E239B201CF1_H
 #ifndef U3CMODULEU3E_TBD8524C451EE70D8D1B6D4B77353EA56C88ABA2E_H
 #define U3CMODULEU3E_TBD8524C451EE70D8D1B6D4B77353EA56C88ABA2E_H
 #ifdef __clang__
@@ -272,6 +294,46 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // U3CMODULEU3E_TBD8524C451EE70D8D1B6D4B77353EA56C88ABA2E_H
+#ifndef U3CMODULEU3E_T4CFCBD5DBA8C82E55135937776C6B6E15D76258D_H
+#define U3CMODULEU3E_T4CFCBD5DBA8C82E55135937776C6B6E15D76258D_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// <Module>
+struct  U3CModuleU3E_t4CFCBD5DBA8C82E55135937776C6B6E15D76258D 
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // U3CMODULEU3E_T4CFCBD5DBA8C82E55135937776C6B6E15D76258D_H
+#ifndef U3CMODULEU3E_T011433D956077C7880B058E62535E02D6D15A50D_H
+#define U3CMODULEU3E_T011433D956077C7880B058E62535E02D6D15A50D_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// <Module>
+struct  U3CModuleU3E_t011433D956077C7880B058E62535E02D6D15A50D 
+{
+public:
+
+public:
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // U3CMODULEU3E_T011433D956077C7880B058E62535E02D6D15A50D_H
 #ifndef U3CMODULEU3E_TA2C12B170DCCF022CA54BCCED031748064EAD62A_H
 #define U3CMODULEU3E_TA2C12B170DCCF022CA54BCCED031748064EAD62A_H
 #ifdef __clang__
@@ -312,26 +374,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // U3CMODULEU3E_T6CDDDF959E7E18A6744E43B613F41CDAC780256A_H
-#ifndef U3CMODULEU3E_T6CD27CED865DF75FF3DDAF26714EF874F479F340_H
-#define U3CMODULEU3E_T6CD27CED865DF75FF3DDAF26714EF874F479F340_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// <Module>
-struct  U3CModuleU3E_t6CD27CED865DF75FF3DDAF26714EF874F479F340 
-{
-public:
-
-public:
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // U3CMODULEU3E_T6CD27CED865DF75FF3DDAF26714EF874F479F340_H
 #ifndef U3CMODULEU3E_T047492A23EC1695A4CBF5C86E9E6730EE76B66E5_H
 #define U3CMODULEU3E_T047492A23EC1695A4CBF5C86E9E6730EE76B66E5_H
 #ifdef __clang__
@@ -372,26 +414,6 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // U3CMODULEU3E_T069827DED028A087172C47DA6A00367BB5B2A113_H
-#ifndef U3CMODULEU3E_T4CFCBD5DBA8C82E55135937776C6B6E15D76258D_H
-#define U3CMODULEU3E_T4CFCBD5DBA8C82E55135937776C6B6E15D76258D_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// <Module>
-struct  U3CModuleU3E_t4CFCBD5DBA8C82E55135937776C6B6E15D76258D 
-{
-public:
-
-public:
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // U3CMODULEU3E_T4CFCBD5DBA8C82E55135937776C6B6E15D76258D_H
 #ifndef U3CMODULEU3E_T5DEE108371A7FB157DB79EC62488AA928D0B53F0_H
 #define U3CMODULEU3E_T5DEE108371A7FB157DB79EC62488AA928D0B53F0_H
 #ifdef __clang__
@@ -412,8 +434,8 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // U3CMODULEU3E_T5DEE108371A7FB157DB79EC62488AA928D0B53F0_H
-#ifndef U3CMODULEU3E_T011433D956077C7880B058E62535E02D6D15A50D_H
-#define U3CMODULEU3E_T011433D956077C7880B058E62535E02D6D15A50D_H
+#ifndef U3CMODULEU3E_T6CD27CED865DF75FF3DDAF26714EF874F479F340_H
+#define U3CMODULEU3E_T6CD27CED865DF75FF3DDAF26714EF874F479F340_H
 #ifdef __clang__
 #pragma clang diagnostic push
 #pragma clang diagnostic ignored "-Winvalid-offsetof"
@@ -421,7 +443,7 @@ public:
 #endif
 
 // <Module>
-struct  U3CModuleU3E_t011433D956077C7880B058E62535E02D6D15A50D 
+struct  U3CModuleU3E_t6CD27CED865DF75FF3DDAF26714EF874F479F340 
 {
 public:
 
@@ -431,27 +453,7 @@ public:
 #ifdef __clang__
 #pragma clang diagnostic pop
 #endif
-#endif // U3CMODULEU3E_T011433D956077C7880B058E62535E02D6D15A50D_H
-#ifndef U3CMODULEU3E_TD981211B90333BF94F78FE63963F0E239B201CF1_H
-#define U3CMODULEU3E_TD981211B90333BF94F78FE63963F0E239B201CF1_H
-#ifdef __clang__
-#pragma clang diagnostic push
-#pragma clang diagnostic ignored "-Winvalid-offsetof"
-#pragma clang diagnostic ignored "-Wunused-variable"
-#endif
-
-// <Module>
-struct  U3CModuleU3E_tD981211B90333BF94F78FE63963F0E239B201CF1 
-{
-public:
-
-public:
-};
-
-#ifdef __clang__
-#pragma clang diagnostic pop
-#endif
-#endif // U3CMODULEU3E_TD981211B90333BF94F78FE63963F0E239B201CF1_H
+#endif // U3CMODULEU3E_T6CD27CED865DF75FF3DDAF26714EF874F479F340_H
 #ifndef RUNTIMEOBJECT_H
 #define RUNTIMEOBJECT_H
 #ifdef __clang__
@@ -10007,6 +10009,8 @@ struct  CameraWrapperTeleport_t0703A4524C957EC006F93390F005F08E0A5C56AE  : publi
 public:
 	// System.Single CameraWrapperTeleport::teleportDistance
 	float ___teleportDistance_4;
+	// UnityEngine.Transform CameraWrapperTeleport::cam
+	Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * ___cam_5;
 
 public:
 	inline static int32_t get_offset_of_teleportDistance_4() { return static_cast<int32_t>(offsetof(CameraWrapperTeleport_t0703A4524C957EC006F93390F005F08E0A5C56AE, ___teleportDistance_4)); }
@@ -10015,6 +10019,15 @@ public:
 	inline void set_teleportDistance_4(float value)
 	{
 		___teleportDistance_4 = value;
+	}
+
+	inline static int32_t get_offset_of_cam_5() { return static_cast<int32_t>(offsetof(CameraWrapperTeleport_t0703A4524C957EC006F93390F005F08E0A5C56AE, ___cam_5)); }
+	inline Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * get_cam_5() const { return ___cam_5; }
+	inline Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA ** get_address_of_cam_5() { return &___cam_5; }
+	inline void set_cam_5(Transform_tBB9E78A2766C3C83599A8F66EDE7D1FCAFC66EDA * value)
+	{
+		___cam_5 = value;
+		Il2CppCodeGenWriteBarrier((&___cam_5), value);
 	}
 };
 
@@ -11250,6 +11263,36 @@ public:
 #pragma clang diagnostic pop
 #endif
 #endif // WINDOWSMIXEDREALITYREPROJECTIONUPDATER_T07903E0BB3907D681BDE7B8E43E61D11F67ABF03_H
+#ifndef VOICEDELAY_T98941E7DC8E59A2CA5DE52F869EE6B71BD920528_H
+#define VOICEDELAY_T98941E7DC8E59A2CA5DE52F869EE6B71BD920528_H
+#ifdef __clang__
+#pragma clang diagnostic push
+#pragma clang diagnostic ignored "-Winvalid-offsetof"
+#pragma clang diagnostic ignored "-Wunused-variable"
+#endif
+
+// VoiceDelay
+struct  VoiceDelay_t98941E7DC8E59A2CA5DE52F869EE6B71BD920528  : public MonoBehaviour_t4A60845CF505405AF8BE8C61CC07F75CADEF6429
+{
+public:
+	// UnityEngine.AudioSource VoiceDelay::audio
+	AudioSource_t5196F862B4E60F404613361C90D87FBDD041E93C * ___audio_4;
+
+public:
+	inline static int32_t get_offset_of_audio_4() { return static_cast<int32_t>(offsetof(VoiceDelay_t98941E7DC8E59A2CA5DE52F869EE6B71BD920528, ___audio_4)); }
+	inline AudioSource_t5196F862B4E60F404613361C90D87FBDD041E93C * get_audio_4() const { return ___audio_4; }
+	inline AudioSource_t5196F862B4E60F404613361C90D87FBDD041E93C ** get_address_of_audio_4() { return &___audio_4; }
+	inline void set_audio_4(AudioSource_t5196F862B4E60F404613361C90D87FBDD041E93C * value)
+	{
+		___audio_4 = value;
+		Il2CppCodeGenWriteBarrier((&___audio_4), value);
+	}
+};
+
+#ifdef __clang__
+#pragma clang diagnostic pop
+#endif
+#endif // VOICEDELAY_T98941E7DC8E59A2CA5DE52F869EE6B71BD920528_H
 #ifndef WINDOWSMIXEDREALITYARTICULATEDHAND_T897227E6E3205E9AD5A1F5E85539A40725E54E1B_H
 #define WINDOWSMIXEDREALITYARTICULATEDHAND_T897227E6E3205E9AD5A1F5E85539A40725E54E1B_H
 #ifdef __clang__
@@ -12363,9 +12406,15 @@ extern const int32_t g_FieldOffsetTable4782[3] =
 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize4783 = { sizeof (U3CModuleU3E_t6CDDDF959E7E18A6744E43B613F41CDAC780256A), -1, 0, 0 };
 extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize4784 = { sizeof (CameraWrapperTeleport_t0703A4524C957EC006F93390F005F08E0A5C56AE), -1, 0, 0 };
-extern const int32_t g_FieldOffsetTable4784[1] = 
+extern const int32_t g_FieldOffsetTable4784[2] = 
 {
 	CameraWrapperTeleport_t0703A4524C957EC006F93390F005F08E0A5C56AE::get_offset_of_teleportDistance_4(),
+	CameraWrapperTeleport_t0703A4524C957EC006F93390F005F08E0A5C56AE::get_offset_of_cam_5(),
+};
+extern const Il2CppTypeDefinitionSizes g_typeDefinitionSize4785 = { sizeof (VoiceDelay_t98941E7DC8E59A2CA5DE52F869EE6B71BD920528), -1, 0, 0 };
+extern const int32_t g_FieldOffsetTable4785[1] = 
+{
+	VoiceDelay_t98941E7DC8E59A2CA5DE52F869EE6B71BD920528::get_offset_of_audio_4(),
 };
 #ifdef __clang__
 #pragma clang diagnostic pop

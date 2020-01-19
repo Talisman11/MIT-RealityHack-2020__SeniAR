@@ -12,6 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Sakura.unity
     guid: 07b80b20bdcafd84e9e0baf6577befa6
   - enabled: 1
-    path: Assets/Scenes/convert house scene.unity
+    path: Assets/Scenes/Sakura.unity
     guid: cb797bb253ab242a5881ce503fd5442b
   m_configObjects: {}
